@@ -2,9 +2,6 @@
 ## Autism Behavior Detection System
 ### Deteksi Gerakan Berulang (Stimming) Anak Autis dalam Kelas Berbasis PointNet + LSTM
 
-> **Tugas Akhir / Proyek Penelitian**  
-> Program Studi [Nama Prodi] — [Nama Universitas]
-
 ---
 
 ## Deskripsi Proyek
