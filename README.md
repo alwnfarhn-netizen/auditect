@@ -1,4 +1,4 @@
-# 🧩 AuDetect
+# AuDetect
 ## Autism Behavior Detection System
 ### Deteksi Gerakan Berulang (Stimming) Anak Autis dalam Kelas Berbasis PointNet + LSTM
 
