@@ -21,6 +21,8 @@ Stimming yang dideteksi meliputi:
 
 ## Arsitektur Sistem
 
+![Arsitektur Lengkap](audetect_arsitektur_lengkap.svg)
+
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
 │  Browser / Kamera Kelas                                                │
